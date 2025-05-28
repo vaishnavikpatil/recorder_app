@@ -1,0 +1,2 @@
+/Users/vaishnavipatil/flutter_projects/recorder_app/android/app/.cxx/RelWithDebInfo/3e4ed5j6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/vaishnavipatil/flutter_projects/recorder_app/android/app/.cxx/RelWithDebInfo/3e4ed5j6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
